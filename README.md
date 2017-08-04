@@ -11,17 +11,15 @@
 
 ### 调用方式：
 
--  获取一个`UIButton`类型的图标：
-
-  ```
-  UIButton *iconfontBtn = [LYIconfont LYIconfontButtonWithFrame:frame code:@"\U0000e6e9" color:someColor size:25.0];
-  ```
-
+- 获取一个`UIButton`类型的图标：
+```
+UIButton *iconfontBtn = [LYIconfont LYIconfontButtonWithFrame:frame code:@"\U0000e6e9" color:someColor size:25.0];
+```
 - 获取一个`UILabel`类型的图标：
 
-  ```
-  UILabel *iconfontLabel = [LYIconfont LYIconfontLabelWithFrame:frame code:@"\U0000e6e9" color:someColor size:25.0];
-  ```
+```
+UILabel *iconfontLabel = [LYIconfont LYIconfontLabelWithFrame:frame code:@"\U0000e6e9" color:someColor size:25.0];
+```
 
   ​
 
